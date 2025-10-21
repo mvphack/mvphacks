@@ -1,14 +1,9 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "f9cfdf4ec53b173d",
-        "key": "123",
-        "expirydate": "22-10-2025",
-        "Allowoffline": false
+  "secret_key": "tumhara_secret_key", 
+  "device_limit": 1,
+  "update_url": "https://github.com/yourapp/app-update.apk",
+  "update_version": 2,
+  "expiry_date": "2024-12-31"
     }
 ]
