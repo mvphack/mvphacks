@@ -1,9 +1,9 @@
 [
     {
-  "secret_key": "3333", 
-  "device_limit": 1,
-  "update_url": "https://te.me/mvp_hacks",
-  "update_version": 5,
-  "expiry_date": "2024-10-22"
+        "secret_key": "1111",
+        "device_limit": 1,
+        "update_version": 2,
+        "expiry_date": "2025-10-22",
+        "after_update_btn_click": "https://t.me/mvp_hacks"
     }
 ]
