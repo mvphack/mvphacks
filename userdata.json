@@ -1,6 +1,6 @@
 [
     {
-        "secret_key": "1111",
+        "secret_key": "2222",
         "device_limit": 1,
         "update_version": 2,
         "expiry_date": "2025-10-22",
