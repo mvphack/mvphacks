@@ -5,6 +5,9 @@
         "update_version": 2,
         "expiry_date": "2025-10-22",
         "after_update_btn_click": "https://t.me/mvp_hacks",
-        "get_key_link": "https://t.me/mvp_hacks_bot"
+        "get_key_link": "https://t.me/mvp_hacks_bot",
+        "is_update": true,
+        "app_version": "v2.0",
+        "current_devices": ["device_id_1"]
     }
 ]
